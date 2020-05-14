@@ -54,5 +54,6 @@ Acest snippet de cod prezinta cum sunt preluati pokemonii din API-ul PokeAPI.
 ![](Images/Facts.PNG)
 
 ## Referinte
-[1]pokemon.com/us/parents-guide/
-[2]https://pokeapi.co/
+
+1.pokemon.com/us/parents-guide/
+2.https://pokeapi.co/
