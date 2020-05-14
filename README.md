@@ -52,3 +52,7 @@ Acest snippet de cod prezinta cum sunt preluati pokemonii din API-ul PokeAPI.
 ![](Images/CaputreCatsAPI.PNG)
 ![](Images/Generator.PNG)
 ![](Images/Facts.PNG)
+
+##Referinte
+[1]pokemon.com/us/parents-guide/
+[2]https://pokeapi.co/
