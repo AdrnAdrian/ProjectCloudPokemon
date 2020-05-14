@@ -49,3 +49,6 @@ Acest snippet de cod prezinta cum sunt preluati pokemonii din API-ul PokeAPI.
 ## Capturi ecran
 
 ![](Images/CapturePokeApi.PNG)
+![](Images/CaputreCatsAPI.PNG)
+![](Images/Generator.PNG)
+![](Images/Facts.PNG)
