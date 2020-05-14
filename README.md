@@ -45,3 +45,7 @@ Acest snippet de cod reprezinta cum aplicatia preia datele din API-ul CatFacts.
 	};
     
 Acest snippet de cod prezinta cum sunt preluati pokemonii din API-ul PokeAPI.
+
+## Capturi ecran
+
+![](Images/CapturePokeApi.PNG)
